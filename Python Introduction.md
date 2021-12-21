@@ -1,4 +1,4 @@
-<h1><p align="center">Python Tutorial in Bangla</p></h1>
+<h1><p align="center">Python Introduction</p></h1>
 
 1. Python Introduction
 2. Python Get Started
