@@ -47,3 +47,8 @@
 38. Python Heap, Heapsort & Priority Queue 
 39. Python  Hash Table
 40. Python Conclusion
+
+
+> **[YouTube Playlist](https://www.youtube.com/watch?v=nwt_EClUXQU&list=PLOj-JOAmGAabfBwBz7kN2cLL9YaiRYb4y)**
+
+> **[Facebook Profile](https://www.facebook.com/shoriot)**
