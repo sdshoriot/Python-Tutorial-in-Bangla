@@ -1,4 +1,5 @@
-**<h1><p align="center">Python Introduction</p></h1>**
+**<h1><p align="center">[Python Introduction](https://www.youtube.com/watch?v=nwt_EClUXQU&list=PLOj-JOAmGAabfBwBz7kN2cLL9YaiRYb4y)</p></h1>**
+
 
 1. Python Introduction
 2. Python Get Started
